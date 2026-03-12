@@ -1,0 +1,23 @@
+
+final List<Map<String, dynamic>> finishSounds = [
+  { 'key': 0, 'name': 'chicken', 'file': 'chicken.mp3' },
+  { 'key': 1, 'name': 'cat1', 'file': 'cat1.mp3' },
+  { 'key': 2, 'name': 'cat2', 'file': 'cat2.mp3' },
+  { 'key': 3, 'name': 'goat', 'file': 'goat.mp3' },
+  { 'key': 4, 'name': 'wolf', 'file': 'wolf.mp3' },
+  { 'key': 5, 'name': 'crow', 'file': 'crow.mp3' },
+  { 'key': 6, 'name': 'bush_warbler', 'file': 'bush_warbler.mp3' },
+  { 'key': 7, 'name': 'cuckoo', 'file': 'cuckoo.mp3' },
+  { 'key': 8, 'name': 'cuckoo_clock', 'file': 'cuckoo_clock.mp3' },
+  { 'key': 9, 'name': 'chime1', 'file': 'chime1.mp3' },
+  { 'key': 10, 'name': 'chime2', 'file': 'chime2.mp3' },
+  { 'key': 11, 'name': 'chime3', 'file': 'chime3.mp3' },
+  { 'key': 12, 'name': 'chime4', 'file': 'chime4.mp3' },
+  { 'key': 13, 'name': 'chime5', 'file': 'chime5.mp3' },
+  { 'key': 14, 'name': 'chime6', 'file': 'chime6.mp3' },
+  { 'key': 15, 'name': 'chime7', 'file': 'chime7.mp3' },
+  { 'key': 16, 'name': 'chime8', 'file': 'chime8.mp3' },
+  { 'key': 17, 'name': 'chime9', 'file': 'chime9.mp3' },
+  { 'key': 18, 'name': 'chime10', 'file': 'chime10.mp3' },
+  { 'key': 19, 'name': 'chime11', 'file': 'chime11.mp3' },
+];
