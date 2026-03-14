@@ -32,7 +32,8 @@ A minimalist and atmospheric **Coffee Timer** built with **Flutter**. Rather tha
 This app is part of a global initiative to release **50+ high-quality mini-apps**. I focus on creating tools that add value—and sometimes a bit of charm—to everyday life.
 
 ### Explore the Portfolio
-- [Google Play Store Developer Page](https://play.google.com/store/apps/dev?id=7155639697967205469)
+- [Google Play Store Developer Page](https://play.google.com/store/apps/dev?id=7266451443285436081)
+- [App Store Developer Page](https://apps.apple.com/developer/akira-ohmachi/id1338624340)
 - [YouTube Channel - Try This App Now](https://www.youtube.com/@TryThisAppNow)
 
 ---
