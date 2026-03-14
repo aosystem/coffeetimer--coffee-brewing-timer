@@ -5,6 +5,9 @@ A minimalist and atmospheric **Coffee Timer** built with **Flutter**. Rather tha
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=jp.aosystem.coffeetimer)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/qJVitU2BAFg/0.jpg)](https://www.youtube.com/watch?v=qJVitU2BAFg)
+
 ## 🌟 Concept & Features
 - **Atmospheric Experience:** Features a visual representation of coffee dripping, serving as a companion to your brewing ritual.
 - **Hourglass-style Measurement:** Measured in **1-minute intervals**, providing a relaxed pace for home baristas.
